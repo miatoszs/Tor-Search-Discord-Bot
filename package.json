@@ -1,4 +1,20 @@
+
+
+
 {
+  "name": "tor-search-discord-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot that searches the Tor network using Ahmia and other search engines.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "4ld0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miatoszs/Tor-Search-Discord-Bot.git"
+  },
   "dependencies": {
     "axios": "^1.7.7",
     "cheerio": "^1.0.0",
